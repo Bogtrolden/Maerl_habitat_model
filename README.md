@@ -13,3 +13,7 @@ Holds citation and datareference for GBIF and Bio Oracle datasets.
 
 Scriptorium:
 Hold the scripts used in the exercise:
+
+
+docs:
+Hold html files for online publishing of map.
