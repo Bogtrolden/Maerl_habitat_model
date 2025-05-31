@@ -1,0 +1,13 @@
+Bio-ORACLE v3 is a global marine environmental dataset developed for ecological and species distribution modeling. It provides a wide range of surface and benthic variables at 5.5 km x 5.5 km per pixel at the equator. The dataset includes temperature, salinity, chlorophyll-a, pH, dissolved oxygen, current velocity, and more. Data are available for multiple time periods, including historical (2000–2014), present, and future climate projections (SSP2-4.5 and SSP5-8.5).
+
+In the report, these layers from the period 2000–2100 are used. The datasets are too big to be included on the GitHub page, so the data will only be referred to.
+
+The data can be found here:
+Source: https://www.bio-oracle.org/
+
+A closer review of the background documentation can be found in these articles:
+
+Tyberghein, L., Verbruggen, H., Pauly, K., Troupin, C., Mineur, F., & De Clerck, O. (2012). Bio-ORACLE: a global environmental dataset for marine species distribution modelling. Global Ecology and Biogeography, 21, 272–281.
+
+
+Schepers, L., Verbruggen, H., Fragkopoulou, E., Troupin, C., Leclercq, F., De Clerck, O., Assis, J., Vanhoorne, B., Gouvêa, L., Salazar, V. W., Serrao, E. A., & Bejarano, S. J. F. (2024). Bio-ORACLE v3.0. Pushing marine data layers to the CMIP6 Earth System Models of climate change research. Global Ecology and Biogeography, 33. https://doi.org/10.1111/geb.13813
