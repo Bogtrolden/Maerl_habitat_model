@@ -1,0 +1,79 @@
+ GBIF.org (5 April 2025) GBIF Occurrence Download https://doi.org/10.15468/dl.a2k4bp
+Download Information
+
+DOI: https://doi.org/10.15468/dl.a2k4bp (may take some hours before being active)
+Creation Date: 14:25:35 5 April 2025
+Records included: 263417 records from 617 published datasets
+Compressed data size: 64.6 MB
+Download format: DWCA
+Filter used:
+
+{
+  "and" : [
+    "HasCoordinate is true",
+    "HasGeospatialIssue is false",
+    "OccurrenceStatus is Present",
+    "TaxonKey is Corallinales"
+  ]
+}
+
+
+ GBIF.org (3 May 2025) GBIF Occurrence Download https://doi.org/10.15468/dl.79rzqa
+Download Information
+
+DOI: https://doi.org/10.15468/dl.79rzqa (may take some hours before being active)
+Creation Date: 12:15:31 3 May 2025
+Records included: 56286 records from 430 published datasets
+Compressed data size: 17.4 MB
+Download format: DWCA
+Filter used:
+
+{
+  "and" : [
+    "HasCoordinate is true",
+    "HasGeospatialIssue is false",
+    "OccurrenceStatus is Present",
+    "TaxonKey is Zostera marina L."
+  ]
+}
+
+
+
+ GBIF.org (3 May 2025) GBIF Occurrence Download https://doi.org/10.15468/dl.b2h9uq
+Download Information
+
+DOI: https://doi.org/10.15468/dl.b2h9uq (may take some hours before being active)
+Creation Date: 12:26:05 3 May 2025
+Records included: 125762 records from 416 published datasets
+Compressed data size: 27.6 MB
+Download format: DWCA
+Filter used:
+
+{
+  "and" : [
+    "HasCoordinate is true",
+    "HasGeospatialIssue is false",
+    "OccurrenceStatus is Present",
+    "TaxonKey is Mytilus edulis Linnaeus, 1758"
+  ]
+}
+
+
+ GBIF.org (3 May 2025) GBIF Occurrence Download https://doi.org/10.15468/dl.yk9acn
+Download Information
+
+DOI: https://doi.org/10.15468/dl.yk9acn (may take some hours before being active)
+Creation Date: 12:28:43 3 May 2025
+Records included: 105128 records from 266 published datasets
+Compressed data size: 24.7 MB
+Download format: DWCA
+Filter used:
+
+{
+  "and" : [
+    "HasCoordinate is true",
+    "HasGeospatialIssue is false",
+    "OccurrenceStatus is Present",
+    "TaxonKey is Fucus vesiculosus L."
+  ]
+}
