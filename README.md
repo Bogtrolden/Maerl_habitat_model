@@ -12,7 +12,7 @@ Datasources:
 Holds citation and datareference for GBIF and Bio Oracle datasets.
 
 Scriptorium:
-Hold the scripts used in the exercise:
+Hold the scripts used in the project.
 
 
 docs:
